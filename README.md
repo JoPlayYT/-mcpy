@@ -1,2 +1,2 @@
-# -mcpy
-A small python version of minecraft
+# mcpy
+A small version of minecraft written 100% in python
